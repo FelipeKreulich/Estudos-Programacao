@@ -1,4 +1,4 @@
-const numberOfParticles = 6000;
+const numberOfParticles = 15000;
 
 const particleImage = 'https://motionarray.imgix.net/preview-34649aJ93evd9dG_0008.jpg?w=660&q=60&fit=max&auto=format',
 particleColor = '0xFFFFFF',
@@ -179,7 +179,7 @@ function toSpaceman(){
     morphTo(spacemanParticles);
 }
 
-function morphTo(newParticles, color = '0xffffff'){
+function morphTo(newParticles, color = '0x767893'){
     TweenMax.to(animationVars, 0.3, {
         ease: Power4.easeIn,
         speed: fullSpeed,
