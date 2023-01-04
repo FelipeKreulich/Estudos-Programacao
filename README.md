@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Podcastr</h1>
+<h1 align="center">Projeto Particle Morphism</h1>
 
 <p align="center">📰 Projeto que tem como Finalidade, criar um website de Morfismo de Partículas. 🚀</p>
 
